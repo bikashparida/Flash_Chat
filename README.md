@@ -1,5 +1,15 @@
 # flash_chat
 
+# screenshot
+![Screenshot 2023-07-06 124051](https://github.com/bikashparida/Flash_Chat/assets/125130144/f56b13b5-d06a-4a55-8047-0fdcf8c4e248)
+
+Registration Screen
+![Screenshot 2023-07-06 124156](https://github.com/bikashparida/Flash_Chat/assets/125130144/90f22637-7cac-4a31-bf06-570fab6331ec)
+Login Screen
+![Screenshot 2023-07-06 124519](https://github.com/bikashparida/Flash_Chat/assets/125130144/39d7ff0e-7590-4443-8ee1-ec9f4e2d48c1)
+Chat Screen
+![Screenshot 2023-07-06 124428](https://github.com/bikashparida/Flash_Chat/assets/125130144/6cf89748-a2eb-4b9e-a905-6757a96ba703)
+
 A new Flutter project.
 
 ## Getting Started
